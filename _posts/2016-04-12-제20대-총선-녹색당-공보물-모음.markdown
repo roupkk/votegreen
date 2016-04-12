@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "제20대 총선 녹색당 공보물 모음"
+date:   2016-04-12 03:30:00 +0900
+categories: update
+---
+[녹색당 총선특집 페이지](http://votegreen.kr), [중앙선거관리위원회 홈페이지](http://www.nec.go.kr)를 중심으로 한 후보자, 공보물 정보입니다.
+
+# 지역구 후보 공보물
+
+* [김영준 (서울 서대문갑 기호 6번)](http://blog.naver.com/joonscofield)
+  * 충현동, 천연동, 북아현동, 신촌동, 연희동, 홍제제1동, 홍제제2동
+  * [선관위 후보자 정보](http://info.nec.go.kr/electioninfo/candidate_detail_info.xhtml?electionId=0020160413&huboId=100119992]) / [공보물 Web 보기](http://policy.nec.go.kr/skin/doc.html?fn=20160401174303737_1.pdf&rs=/preview/html/201604/) / [공보물 PDF 보기](http://policy.nec.go.kr/data/20160401174303737_1.pdf)
+
+* [변홍철 (대구 달성군 기호 5번)](http://blog.naver.com/grrepublic)
+  * 죽전동, 장기동, 용산1동, 용산2동, 이곡1동, 이곡2동, 신당동
+  * [후보자 정보](http://info.nec.go.kr/electioninfo/candidate_detail_info.xhtml?electionId=0020160413&huboId=100119513) / [공보물 Web 보기](http://policy.nec.go.kr/skin/doc.html?fn=20160401152403577_1.pdf&rs=/preview/html/201604/) / [공보물 PDF 보기](http://policy.nec.go.kr/data/20160401152403577_1.pdf)
+
+* [이유진 (서울 동작갑 기호 5번)](http://blog.naver.com/whalewatch)
+  * 노량진제1동, 노량진제2동, 상도제2동, 상도제3동, 상도제4동, 대방동, 신대방제1동, 신대방제2동
+  * [후보자 정보](http://info.nec.go.kr/electioninfo/candidate_detail_info.xhtml?electionId=0020160413&huboId=100119140) / [공보물 Web 보기](http://policy.nec.go.kr/skin/doc.html?fn=20160331215553586_1.pdf&rs=/preview/html/201604/) / [공보물 PDF 보기](http://policy.nec.go.kr/data/20160331215553586_1.pdf)
+
+* [하승수 (서울 종로 기호 6번)](http://blog.naver.com/haha9601)
+  * 청운효자동, 사직동, 삼청동, 부암동, 평창동, 무악동, 교남동, 가회동, 종로1234가동, 종로56가동, 이화동, 혜화동, 창신제1동, 창신제2동, 창신제3동, 숭인제1동, 숭인제2동
+  * [후보자 정보](http://info.nec.go.kr/electioninfo/candidate_detail_info.xhtml?electionId=0020160413&huboId=100119211) / [공보물 Web 보기](http://policy.nec.go.kr/skin/doc.html?fn=20160401132407221_1.pdf&rs=/preview/html/201604/) / [공보물 PDF 보기](http://policy.nec.go.kr/data/20160401132407221_1.pdf)
+
+* [홍지숙 (경기 의왕과천 기호 5번)](http://zisoop.com/)
+  * 과천시 중앙동, 갈현동, 별양동, 부림동, 과천동, 문원동
+  * 의왕시 고천동, 부곡동, 오전동, 내손1동, 내손2동, 청계동
+  * [후보자 정보](http://info.nec.go.kr/electioninfo/candidate_detail_info.xhtml?electionId=0020160413&huboId=100119109) / [공보물 Web 보기](http://policy.nec.go.kr/skin/doc.html?fn=20160401200031147_1.pdf&rs=/preview/html/201604/) / [공보물 PDF 보기](http://policy.nec.go.kr/data/20160401200031147_1.pdf)
+
+# 비례대표 공보물
+
+* [녹색당 (기호 15번)](http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml?electionId=0020160413&requestURI=%2FWEB-INF%2Fjsp%2Felectioninfo%2F0020160413%2Fcp%2Fcpri03.jsp&topMenuId=CP&secondMenuId=CPRI03&menuId=CPRI03&statementId=CPRI03_%237&electionCode=7&cityCode=-1&sggCityCode=0&proportionalRepresentationCode=710&townCode=-1&sggTownCode=-1&dateCode=0&x=45&y=18)
+  * [1순위: 황윤](http://votegreen.kr/pr/1)
+    * [선관위 후보자 정보](http://info.nec.go.kr/electioninfo/candidate_detail_info.xhtml?electionId=0020160413&huboId=100120609)
+  * [2순위: 이계삼](http://votegreen.kr/pr/2)
+    * [선관위 후보자 정보](http://info.nec.go.kr/electioninfo/candidate_detail_info.xhtml?electionId=0020160413&huboId=100120610)
+  * [3순위: 김주온](http://votegreen.kr/pr/3)
+    * [선관위 후보자 정보](http://info.nec.go.kr/electioninfo/candidate_detail_info.xhtml?electionId=0020160413&huboId=100120612)
+  * [4순위: 구자상](http://votegreen.kr/pr/4)
+    * [선관위 후보자 정보](http://info.nec.go.kr/electioninfo/candidate_detail_info.xhtml?electionId=0020160413&huboId=100120613)
+  * [5순위: 신지예](http://votegreen.kr/pr/5)
+    * [선관위 후보자 정보](http://info.nec.go.kr/electioninfo/candidate_detail_info.xhtml?electionId=0020160413&huboId=100120614)
+* 공보물
+  * [공보물 Web 보기](http://policy.nec.go.kr/skin/doc.html?fn=20160329174006161_1.pdf&rs=/preview/html/201604/) / [공보물 PDF 보기](http://policy.nec.go.kr/data/20160329174006161_1.pdf)
+
