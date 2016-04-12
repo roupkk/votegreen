@@ -26,6 +26,11 @@ permalink: /
 
 정치하는 프로그래머, 변규홍의 녹색당 지지선언. 지금부터 시작합니다. 함께 하시겠습니까?
 
+# 녹색당 홈페이지
+
+* [총선특집 홈페이지 http://votegreen.kr](http://votegreen.kr)
+* [전체적인 홈페이지 http://kgreens.org](http://kgreens.org)
+
 # Special Thanks To
 
 이 웹 사이트는 [jekyll](https://github.com/jekyll/jekyll)와 [Github Pages](http://github.io) 기반으로 작동하고 있습니다.
